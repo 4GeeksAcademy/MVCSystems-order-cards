@@ -1,1 +1,24 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  font-family: "Lora", serif;
+  font-style: normal;
+  background-color: #720a0a;
+  color: #fff;
+}
+
+.card-container {
+  width: 3rem;
+  height: 4rem;
+  color: black;
+}
+
+.label {
+  font-size: 16px;
+}
+
+.card-symbol {
+  font-size: 14px;
+}
+
+.card-index {
+  width: 20px;
+}
